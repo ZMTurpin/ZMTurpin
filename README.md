@@ -2,7 +2,7 @@
 - PhD conferred August 4, 2023
 - I’m interested in Bioinformatics, comparative epigenomics, abiotic stress response
 - I’m actively seeking opportunities to apply my biological knowledge and computational skills to real-world problems.
-- 📫 How to reach me: zachturpin92@gmail.com | https://www.linkedin.com/in/zach-turpin-phd-c-0b5146272/
+- 📫 How to reach me: zachturpin92@gmail.com | www.linkedin.com/in/zacharymturpin
 
 <!---
 ZMTurpin/ZMTurpin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
