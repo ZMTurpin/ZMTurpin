@@ -1,7 +1,5 @@
 - Hi, I’m @ZMTurpin, a recent PhD graduate from Hank Bass' lab at Florida State University (Cell and Molecular Biology)
 - PhD conferred August 4, 2023
-- I’m interested in Bioinformatics, comparative epigenomics, abiotic stress response
-- I’m actively seeking opportunities to apply my biological knowledge and computational skills to real-world problems.
 - 📫 How to reach me: zachturpin92@gmail.com | www.linkedin.com/in/zacharymturpin
 
 <!---
